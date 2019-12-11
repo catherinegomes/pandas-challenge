@@ -10,6 +10,9 @@ pandas = "*"
 ipykernel = "*"
 numpy = "*"
 openpyxl = "*"
+matplotlib = "*"
+jinja2 = "*"
+pandas-io-formats-style = "*"
 
 [requires]
 python_version = "3.7"
